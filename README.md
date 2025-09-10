@@ -234,5 +234,5 @@ npm run dev
 
 ## ✨ Author
 
-👨‍💻 Developed by Aftab Ali
-🔗 [LinkedIn](linkedin.com/in/aftab-ali-181194276) 
+👨‍💻 Developed by Hiteshri Gautam
+🔗 [Linkedin.com/in/aftab-ali-181194276](https://linkedin.com/in/hiteshri-gautam-3041a92b4)) 
